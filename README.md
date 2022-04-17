@@ -1,4 +1,3 @@
 # MIDASS
 
-1. Python Problem
-2. Computer Vison Problem
+Python Problem - Twitter Sentiment Analysis
